@@ -1,0 +1,5 @@
+.venv
+.DS_store
+.idea
+.vscode
+.ruff_cache
